@@ -1,0 +1,1 @@
+This repository contains a simple JavaScript code example that highlights an unnecessary complexity in a boolean expression. The original code uses an `if-else` statement to return `true` or `false` based on a simple equality check. This can be simplified to directly return the result of the comparison.  The solution demonstrates a more concise and efficient approach.
